@@ -1,4 +1,4 @@
-# Deis Controller
+## Deis Controller
 
 [![Build Status](https://travis-ci.org/deis/controller.svg?branch=master)](https://travis-ci.org/deis/controller)
 [![codecov.io](https://codecov.io/github/deis/controller/coverage.svg?branch=master)](https://codecov.io/github/deis/controller?branch=master)
